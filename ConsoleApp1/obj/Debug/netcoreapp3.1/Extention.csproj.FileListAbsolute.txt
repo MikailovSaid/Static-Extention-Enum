@@ -1,0 +1,13 @@
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Extention.exe
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Extention.deps.json
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Extention.runtimeconfig.json
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Extention.runtimeconfig.dev.json
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Extention.dll
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Extention.pdb
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Extention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Extention.AssemblyInfoInputs.cache
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Extention.AssemblyInfo.cs
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Extention.csproj.CoreCompileInputs.cache
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Extention.dll
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Extention.pdb
+C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Extention.genruntimeconfig.cache
