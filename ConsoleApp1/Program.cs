@@ -7,8 +7,17 @@ namespace Extention
     {
         static void Main(string[] args)
         {
-            string str = "Salam Cavid.Necesen Cavid?";
-            Console.WriteLine(str.CheckString("Cavid"));
+            MyList<object> list = new MyList<object>();
+            list.Add("Said");
+            list.Add("Salam");
+            list.Add(1);
+            list.Add(2);
+
+            list.AddRange(3);
+
+            //list.Clear();
+
+            //list.Find();
         }
     }
 }

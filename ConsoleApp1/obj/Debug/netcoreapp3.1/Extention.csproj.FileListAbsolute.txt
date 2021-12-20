@@ -11,3 +11,4 @@ C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.
 C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Extention.dll
 C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Extention.pdb
 C:\Users\saidgm\Desktop\Classwork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Extention.genruntimeconfig.cache
+C:\Users\saidgm\Desktop\ClassWork\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Extention.csproj.AssemblyReference.cache

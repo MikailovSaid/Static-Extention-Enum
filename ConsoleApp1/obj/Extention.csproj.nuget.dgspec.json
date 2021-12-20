@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saidgm\\Desktop\\Classwork\\ConsoleApp1\\ConsoleApp1\\Extention.csproj": {}
+    "C:\\Users\\saidgm\\Desktop\\ClassWork\\ConsoleApp1\\ConsoleApp1\\Extention.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saidgm\\Desktop\\Classwork\\ConsoleApp1\\ConsoleApp1\\Extention.csproj": {
+    "C:\\Users\\saidgm\\Desktop\\ClassWork\\ConsoleApp1\\ConsoleApp1\\Extention.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saidgm\\Desktop\\Classwork\\ConsoleApp1\\ConsoleApp1\\Extention.csproj",
+        "projectUniqueName": "C:\\Users\\saidgm\\Desktop\\ClassWork\\ConsoleApp1\\ConsoleApp1\\Extention.csproj",
         "projectName": "Extention",
-        "projectPath": "C:\\Users\\saidgm\\Desktop\\Classwork\\ConsoleApp1\\ConsoleApp1\\Extention.csproj",
+        "projectPath": "C:\\Users\\saidgm\\Desktop\\ClassWork\\ConsoleApp1\\ConsoleApp1\\Extention.csproj",
         "packagesPath": "C:\\Users\\saidgm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saidgm\\Desktop\\Classwork\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\saidgm\\Desktop\\ClassWork\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saidgm\\AppData\\Roaming\\NuGet\\NuGet.Config",
